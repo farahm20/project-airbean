@@ -1,0 +1,580 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Bryggkaffe",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 39
+    },
+    {
+      "id": 2,
+      "title": "Caffè Doppio",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 3,
+      "title": "Cappuccino",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 4,
+      "title": "Latte Macchiato",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 5,
+      "title": "Kaffe Latte",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 54
+    },
+    {
+      "id": 6,
+      "title": "Cortado",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 39
+    }
+  ],
+  "orders": [
+    {
+      "orderNr": "21255e0a-e225-40cc-877b-dec85cb36e05",
+      "timeStamp": 1601378783695,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 3
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 3
+        }
+      ],
+      "totalOrderValue": 264
+    },
+    {
+      "orderNr": "a680debe-5afc-4a12-bdc5-d735222b4155",
+      "timeStamp": 1601378858761,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 3
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 3
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 362
+    },
+    {
+      "orderNr": "341fe3e9-33e4-46f6-823b-f60ef737f61e",
+      "timeStamp": 1601380423418,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 3
+        },
+        {
+          "id": 4,
+          "price": 49,
+          "title": "Latte Macchiato",
+          "quantity": 3
+        }
+      ],
+      "totalOrderValue": 382
+    },
+    {
+      "orderNr": "f7e20f49-6c2f-45b9-8c09-2a82497e91f1",
+      "timeStamp": 1601400948062,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 3
+        }
+      ],
+      "totalOrderValue": 323
+    },
+    {
+      "orderNr": "199b00c4-7b33-45aa-8c5c-393b765849cf",
+      "timeStamp": 1601401476655,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 1
+        }
+      ],
+      "totalOrderValue": 137
+    },
+    {
+      "orderNr": "be955ef8-8a77-4322-962f-741b7523ceaa",
+      "timeStamp": 1601408991955,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 1
+        }
+      ],
+      "totalOrderValue": 88
+    },
+    {
+      "orderNr": "6a3ecae0-e629-4d35-be80-02211062641d",
+      "timeStamp": 1601410213954,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 3
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 3
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 362
+    },
+    {
+      "orderNr": "58bab221-8e86-46af-a091-c083e7470191",
+      "timeStamp": 1601410243040,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "price": 49,
+          "title": "Latte Macchiato",
+          "quantity": 1
+        }
+      ],
+      "totalOrderValue": 137
+    },
+    {
+      "orderNr": "d7038e84-7e1d-4c64-ba9c-29b2f40744d0",
+      "timeStamp": 1601410419786,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "price": 49,
+          "title": "Latte Macchiato",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 235
+    },
+    {
+      "orderNr": "a16270af-7f55-430c-924d-0db4b347bb7d",
+      "timeStamp": 1601412942508,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 3
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 4
+        }
+      ],
+      "totalOrderValue": 313
+    },
+    {
+      "orderNr": "207fdcf8-48dd-4160-9e66-b58c260e29ee",
+      "timeStamp": 1601414260523,
+      "item": [],
+      "totalOrderValue": 0
+    },
+    {
+      "orderNr": "1fca75da-8e4f-4027-84fc-7249515effb5",
+      "timeStamp": 1601466160148,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 1
+        }
+      ],
+      "totalOrderValue": 137
+    },
+    {
+      "orderNr": "cc2e6c73-fc8d-4b6d-9761-7611ffb06c44",
+      "timeStamp": 1601494404330,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 176
+    },
+    {
+      "orderNr": "K_MbxX30Qt",
+      "timeStamp": 22,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 2
+        },
+        {
+          "id": 4,
+          "price": 49,
+          "title": "Latte Macchiato",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 274
+    },
+    {
+      "orderNr": "ydtSf2Pm-U",
+      "timeStamp": 32,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "price": 49,
+          "title": "Caffè Doppio",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 3
+        }
+      ],
+      "totalOrderValue": 235
+    },
+    {
+      "orderNr": "bKuYUoSwPb",
+      "timeStamp": 8,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 3
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 4
+        }
+      ],
+      "totalOrderValue": 313
+    },
+    {
+      "orderNr": "VUBD2eEEry",
+      "timeStamp": 14,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 4,
+          "price": 49,
+          "title": "Latte Macchiato",
+          "quantity": 5
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 421
+    },
+    {
+      "orderNr": "omQ0_sLICp",
+      "timeStamp": 9,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 2
+        },
+        {
+          "id": 4,
+          "price": 49,
+          "title": "Latte Macchiato",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "price": 54,
+          "title": "Kaffe Latte",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 382
+    },
+    {
+      "orderNr": "tD2g_pX7p-",
+      "timeStamp": 26,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 3
+        },
+        {
+          "id": 5,
+          "price": 54,
+          "title": "Kaffe Latte",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 333
+    },
+    {
+      "orderNr": "qAJfFlB61X",
+      "timeStamp": 5,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 176
+    },
+    {
+      "orderNr": "AWNrurxSB2",
+      "timeStamp": 33,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "price": 49,
+          "title": "Cappuccino",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "price": 54,
+          "title": "Kaffe Latte",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 284
+    },
+    {
+      "orderNr": "TEVg7oKon1",
+      "timeStamp": 39,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 3
+        },
+        {
+          "id": 4,
+          "price": 49,
+          "title": "Latte Macchiato",
+          "quantity": 3
+        }
+      ],
+      "totalOrderValue": 264
+    },
+    {
+      "orderNr": "ptLznPPNgL",
+      "timeStamp": 6,
+      "item": [
+        {
+          "id": 1,
+          "price": 39,
+          "title": "Bryggkaffe",
+          "quantity": 2
+        },
+        {
+          "id": 4,
+          "price": 49,
+          "title": "Latte Macchiato",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "price": 54,
+          "title": "Kaffe Latte",
+          "quantity": 2
+        }
+      ],
+      "totalOrderValue": 284
+    },
+    {
+      "orderNr": "12qxxAlfsB",
+      "timeStamp": 27,
+      "item": [],
+      "totalOrderValue": 0
+    }
+  ]
+}
