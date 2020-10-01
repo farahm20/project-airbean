@@ -31,7 +31,7 @@ router.post('/', (req, res) => {
     console.log(`Order ${order.timeStamp} stored in db.`)
    
     res.send({ msg: 'Din beställning är på väg!', 
-    orderNr: 'Ordernummer: #' + order.orderNr,
+    orderNr: '#' + order.orderNr,
     timeStamp: 'ETA: ' + order.timeStamp
  })
 
