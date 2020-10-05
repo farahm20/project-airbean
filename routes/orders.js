@@ -15,7 +15,7 @@ router.post('/', (req, res) => {
     console.log("router post" + req.body)
     //calculating ETA from math random using mix and max minutes
     let min = 5;
-    let max = 45;
+    let max = 35;
     let ETA = Math.floor(Math.random() * ((max - min) + 1) + min);
 
 
@@ -32,7 +32,7 @@ router.post('/', (req, res) => {
    
     res.send({ msg: 'Din beställning är på väg!', 
     orderNr: '#' + order.orderNr,
-    timeStamp: 'ETA: ' + order.timeStamp
+    timeStamp: order.timeStamp
  })
 
 })
