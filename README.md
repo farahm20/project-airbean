@@ -1,5 +1,5 @@
 # project-airbean
-
+Backend
 This is a web app where user can order coffee and have it delivered via drone (drones are not included in the task).
 
 Figmaskiss: https://www.figma.com/file/UeUGVefSdgio0sRxPFccJI/AirBean-v.1.0?node-id=0%3A1
